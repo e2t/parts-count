@@ -1,4 +1,6 @@
-﻿# Parts-Count
+This project has been moved to https://codeberg.org/e2t/parts-count
+ 
+ # Parts-Count
 Макрос для подсчета деталей в сборке SolidWorks.
 
 ### Зависимости
